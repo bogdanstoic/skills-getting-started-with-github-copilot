@@ -94,6 +94,14 @@ section h3 {
   margin-top: 5px;
   max-height: 150px;
   overflow-y: auto;
+  list-style-type: none;
+}
+
+.delete-participant {
+  cursor: pointer;
+  color: red;
+  margin-left: 10px;
+  font-weight: bold;
 }
 
 .form-group {
